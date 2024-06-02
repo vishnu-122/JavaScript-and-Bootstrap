@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JavaScript and Bootstrap Project
 
 ## Overview
@@ -22,7 +21,7 @@ This project demonstrates my proficiency with Bootstrap 5 components and JavaScr
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/vishnu-122/JavaScript-and-Bootstrap.git
     cd your-repo-name
     ```
 
@@ -40,5 +39,4 @@ This project demonstrates my proficiency with Bootstrap 5 components and JavaScr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 =======
-# JavaScript-and-Bootstrap
->>>>>>> ebd9ee4bbd3ccd7aa492de4eaa43e8d98199e085
+
